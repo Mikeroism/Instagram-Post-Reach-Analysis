@@ -1,5 +1,6 @@
-This is a data analysis project in Python to understand how different attributes of Instagram posts impact their reach. The following graphs/charts/numbers showcase the 
-output of the analysis in order of each one was being conducted.
+This is a data analysis project in Python to understand how different attributes of Instagram posts impact their reach. The following graphs/charts/numbers showcase the output of the analysis in order of each one was being conducted.
+
+Code written for this analysis can be found in Instagram-Data-Analysis.py, and dataset used can be found in Instagram data.csv
 
 
 #1. Data Overview(column name, data type, number of valid values)
